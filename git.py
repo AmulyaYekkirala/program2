@@ -1,1 +1,2 @@
 print("ammu")
+print("Amulya")
